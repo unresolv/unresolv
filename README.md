@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=katlol&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=katlol&style=for-the-badge&label=VISITOR+NUMBER)
